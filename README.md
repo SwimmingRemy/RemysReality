@@ -96,35 +96,6 @@ a map with no authored career sites. That work is in progress, so this list shou
 
 ---
 
-## Install
-
-1. Install **RLS Career Overhaul** and **BeamNG.Earth**, and **start BeamNG.Earth's companion
-   server**. Confirm an ordinary RLS career works on a normal map first.
-2. **Back up your career save folder.**
-3. Download `RemysReality_v0_7_39.zip` from [Releases](../../releases). **Do not unzip it.**
-4. **Delete any older `RemysReality_*.zip` from your mods folder.** Two versions installed at once
-   is the most common cause of odd behaviour, and nothing warns you about it.
-5. Close the game, put the new zip in your mods folder, start the game:
-   `%LOCALAPPDATA%\BeamNG\BeamNG.drive\current\mods\`
-6. Start a **new** career. Pick
-   **BeamNG.Earth (Remy's Reality)** from the **Starting Map** dropdown — *not* plain BeamNG.Earth —
-   set **Difficulty** to **Standard** and **Starting Garage** to **Random Garage (≤50,000)**. That is
-   the only combination this has been tested with.
-7. In RLS's phone, open the **App Store** and install **Remy's Reality**. It is not on the phone by
-   default — you install it once and it stays.
-8. While you are in there, grab RLS's own **Camera** app if you haven't already — Field Survey
-   takes its photographs through it.
-9. **Press START in that app when you are standing where you want to live.** Until you do, nothing
-   happens — that is by design. See *What it is and how to start* below.
-
-No settings file is needed.
-
-Full instructions, the settings reference and the console commands are in
-`README_RemysReality.txt` inside the zip.
-
-> The zip people install comes from the **Release**. The green **Code → Download ZIP** button at the
-> top of this page gives you the repository, which is not a mod and will not install.
-
 ## Requirements
 
 | | |
@@ -165,6 +136,37 @@ warns that first visits load more slowly with any of them on.
 
 
 ## What it is and how to start
+
+## Install
+
+1. Install **RLS Career Overhaul** and **BeamNG.Earth** at the versions above, and
+   **start BeamNG.Earth's companion server**. Confirm an ordinary RLS career works
+   on a normal map first.
+2. **Back up your career save folder.**
+3. Download `RemysReality_v0_7_39.zip` from [Releases](../../releases). **Do not unzip it.**
+4. **Delete any older `RemysReality_*.zip` from your mods folder.** Two versions installed at once
+   is the most common cause of odd behaviour, and nothing warns you about it.
+5. Close the game, put the new zip in your mods folder, start the game:
+   `%LOCALAPPDATA%\BeamNG\BeamNG.drive\current\mods\`
+6. Start a **new** career. Pick
+   **BeamNG.Earth (Remy's Reality)** from the **Starting Map** dropdown — *not* plain BeamNG.Earth —
+   set **Difficulty** to **Standard** and **Starting Garage** to **Random Garage (≤50,000)**. That is
+   the only combination this has been tested with.
+7. In RLS's phone, open the **App Store** and install **Remy's Reality**. It is not on the phone by
+   default — you install it once and it stays.
+8. While you are in there, grab RLS's own **Camera** app if you haven't already — Field Survey
+   takes its photographs through it.
+9. **Press START in that app when you are standing where you want to live.** Until you do, nothing
+   happens — that is by design. See *What it is and how to start* below.
+
+No settings file is needed.
+
+Full instructions, the settings reference and the console commands are in
+`README_RemysReality.txt` inside the zip.
+
+> The zip people install comes from the **Release**. The green **Code → Download ZIP** button at the
+> top of this page gives you the repository, which is not a mod and will not install.
+
 
 This is the part worth reading once, because it is unlike any other career mod.
 
