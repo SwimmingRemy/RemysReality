@@ -1,0 +1,17 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Install problems — read this first
+    url: https://github.com/SwimmingRemy/RemysReality#install
+    about: >-
+      Most reports turn out to be one of five things: the zip was unzipped, an older RR
+      zip is still in the mods folder, the game was open when the file was copied in,
+      BeamNG.Earth's companion server is not running, or the career was started before
+      pressing START in the Remy's Reality phone app. The Install section covers all five.
+  - name: Nothing has happened since I started a new career
+    url: https://github.com/SwimmingRemy/RemysReality#your-career-does-not-start-until-you-press-start
+    about: >-
+      That is by design. A new RR career begins dormant until you press START in the
+      Remy's Reality app on RLS's phone. Read that section before filing.
+  - name: Compatibility after a game, RLS or BeamNG.Earth update
+    url: https://github.com/SwimmingRemy/RemysReality/issues/new?template=compat_report.yml
+    about: Use the compatibility report instead of a bug report.

@@ -1,0 +1,120 @@
+name: Bug report
+description: Something went wrong with Remy's Reality
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting. The version numbers below are what make a report
+        reproducible — please fill them in even if the bug seems unrelated to them.
+
+        **A report with a log attached can be answered; one without usually cannot.**
+
+        **Before you file, two things that are not bugs:** a brand-new career does nothing
+        until you press START in the Remy's Reality phone app, and the RV dealer is empty
+        on a stock BeamNG install because the game ships no camper or motorhome. Both are
+        covered in the README.
+
+  - type: input
+    id: rr-version
+    attributes:
+      label: Remy's Reality version
+      placeholder: "0.7.39"
+    validations:
+      required: true
+
+  - type: input
+    id: game-version
+    attributes:
+      label: BeamNG.drive version
+      placeholder: "0.40.5"
+    validations:
+      required: true
+
+  - type: input
+    id: rls-version
+    attributes:
+      label: RLS Career Overhaul version
+      placeholder: "2.8.0.1, or 2.8.0.2-beta"
+    validations:
+      required: true
+
+  - type: input
+    id: earth-version
+    attributes:
+      label: BeamNG.Earth version
+      description: The dev number, e.g. dev.450.
+      placeholder: "1.9.1-beta.dev.450"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: earth-server
+    attributes:
+      label: Was BeamNG.Earth's companion server running?
+      options:
+        - "Yes"
+        - "No"
+        - "Not sure"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: career-age
+    attributes:
+      label: Which career was this?
+      options:
+        - "A new career started on this version"
+        - "A career carried over from an earlier RR version"
+        - "Not a career — I was just on the map"
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What you did, what you expected, what you got instead. Where in the world you were, if it matters.
+    validations:
+      required: true
+
+  - type: textarea
+    id: log
+    attributes:
+      label: Log
+      description: >
+        Attach beamng.log, or paste the lines tagged SRCL_EarthCareer.
+        It is in %LOCALAPPDATA%\BeamNG\BeamNG.drive\current\beamng.log
+        Note that the log goes quiet a short way into a session, so a missing line does not
+        prove anything — say what you saw on screen too.
+      render: text
+    validations:
+      required: false
+
+  - type: textarea
+    id: diag
+    attributes:
+      label: Diary
+      description: >
+        If you can, attach /settings/srcl_earthcareer_diag.json as well. It often has what
+        the log does not.
+    validations:
+      required: false
+
+  - type: textarea
+    id: mods
+    attributes:
+      label: Other mods
+      description: Anything else installed, especially other career, traffic, police or camera mods.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Quick checks
+      options:
+        - label: I did not unzip the mod
+        - label: I deleted any older Remy's Reality zip from my mods folder
+        - label: The game was closed when I copied the zip in
+        - label: I backed up my career save before using this

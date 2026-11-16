@@ -1,0 +1,102 @@
+THIRD-PARTY NOTICES - Remy's Reality (SR_CL EarthCareer)
+========================================================
+
+WHICH FILE GOVERNS WHAT. This file is the human-readable summary. The binding
+statement of which terms apply to which files is LICENSES-SCOPE.md, which
+enumerates every file exactly and states that no directory-wide inference
+applies to anything it does not list. Where the two disagree, LICENSES-SCOPE.md
+governs.
+
+WHERE THESE NOTICES LIVE. This mod contains third-party material - a 3D model
+under CC BY 4.0 - so the notices travel inside the released zip as well as here. LICENSES-SCOPE.md and the
+model's own american.CREDIT.txt both ship at their paths in the zip, which is
+what discharges the attribution condition for the person who installed the mod.
+A notice living only in a repository never reaches them.
+
+Remy's Reality's own code and data are AGPL-3.0-only with an additional
+permission under AGPL section 7. See LICENSE and SRCL-BeamNG-Permission.txt.
+
+
+-----------------------------------------------------------------------------------
+"American House" by AleixoAlonso - CC BY 4.0 - MODIFIED
+-----------------------------------------------------------------------------------
+
+WHAT IS USED: the model, its materials and its textures, shipped in the zip at
+art/shapes/srcl_homestead/american/, and the preview render derived from it.
+
+Original work: "American House" by AleixoAlonso, https://skfb.ly/oCWVR
+Licence: Creative Commons Attribution 4.0 International
+         https://creativecommons.org/licenses/by/4.0/
+
+THIS MODEL HAS BEEN MODIFIED. The changes are itemised in
+art/shapes/srcl_homestead/american/american.CREDIT.txt, which ships alongside
+the model and MUST BE RETAINED in any redistribution. The original, unmodified
+model remains available at the link above.
+
+AleixoAlonso does not endorse SwimmingRemy or this use.
+
+These files are NOT covered by the AGPL and NOT covered by the additional
+permission in SRCL-BeamNG-Permission.txt. They are licensed to you by their
+author on CC BY 4.0 terms, and nothing in this distribution adds to or
+subtracts from those terms.
+
+
+-----------------------------------------------------------------------------------
+Public-domain data - OurAirports, and the U.S. Census Bureau
+-----------------------------------------------------------------------------------
+
+Three data files in the zip are built from public-domain sources:
+
+  gameplay/srcl_earthcareer/airports.json
+  gameplay/srcl_earthcareer/fuel_regions.json
+  gameplay/srcl_earthcareer/house_prices.json
+
+What is SwimmingRemy's in these files is the SELECTION, ARRANGEMENT, SCHEMA AND
+ENCODING - the compilation - and that much is offered under the same terms as
+the rest of the mod. THE UNDERLYING FACTS ARE PUBLIC DOMAIN and this
+distribution asserts no right over them whatsoever: extract them, reuse them,
+relicense your use of them as you wish. Each file names its own sources in its
+"source" field, and those names must be kept with the data.
+
+  airports.json      OurAirports (public domain), https://ourairports.com/data/
+                     filtered to scheduled-service airports.
+
+  fuel_regions.json  0.5-degree region cells derived from OurAirports
+                     airports.csv (public domain). The US price levels are AAA
+                     state averages (2026-11-06); the non-US levels are
+                     approximate figures written by hand for a game, not a
+                     dataset and not a live feed.
+
+  house_prices.json  US values from the U.S. Census Bureau QuickFacts (American
+                     Community Survey 5-year estimates), a U.S. government work
+                     in the public domain. Non-US values are approximate figures
+                     written by hand for a game.
+                     NO ZILLOW, REDFIN OR MLS DATA IS USED OR INCLUDED.
+
+
+-----------------------------------------------------------------------------------
+Called at run time, NOT distributed here
+-----------------------------------------------------------------------------------
+
+None of the following is included in this mod. It is read or called at run time
+if it is present in the user's own installation. Each carries its own terms,
+from its own authors, and nothing in this distribution grants any right to any
+of them.
+
+  BeamNG.drive and everything that ships with it - the engine, the career
+  framework, and the level buildings used by the "suburban", "country" and
+  "coastal" house sets. Those buildings are referenced by file path and loaded
+  from the user's own game install; no building file is bundled here.
+
+  RLS Career Overhaul - called at run time, separately licensed by its own
+  authors with its own enumerated scope. No part of it is bundled.
+
+  BeamNG.Earth - the level this mod targets, by its own authors. Not bundled.
+  Its place and building lookups draw on Overture Maps Foundation data, which
+  likewise is not bundled here.
+
+
+-----------------------------------------------------------------------------------
+
+No third-party code, sound, or other art beyond what is named above is included
+in this mod.

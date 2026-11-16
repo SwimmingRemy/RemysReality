@@ -1,0 +1,57 @@
+SR_CL Remy's Reality
+Additional permission under GNU AGPL version 3 section 7
+
+Copyright (C) 2026 SwimmingRemy
+
+This file states an additional permission that applies to the SR_CL
+Remy's Reality mod when it is distributed under the GNU Affero General
+Public License, version 3 ("AGPL").
+
+
+1. DEFINITIONS
+
+   "RR Covered Material" means those files, and only those files, that
+   LICENSES-SCOPE.md in this distribution lists as covered by the AGPL.
+   No directory-wide inference applies to any file that is not listed
+   there.
+
+   "BeamNG Components" means BeamNG.drive and any part of it, including
+   its game engine, executables, libraries, scripting runtime, data
+   files, art assets, level content, and any other material distributed
+   by or licensed from BeamNG GmbH, including material made available
+   under the bCDDL.
+
+
+2. ADDITIONAL PERMISSION
+
+   As an additional permission under section 7 of the AGPL, you have
+   permission to link or combine the RR Covered Material with BeamNG
+   Components, and to convey the resulting combined work, without the
+   BeamNG Components themselves becoming subject to the AGPL and
+   without any obligation to provide Corresponding Source for the
+   BeamNG Components.
+
+
+3. OBLIGATIONS PRESERVED
+
+   This permission reaches the combination only. The AGPL continues to
+   apply in full to the RR Covered Material itself, including the
+   obligation to make its Corresponding Source available on the terms
+   the AGPL sets out.
+
+
+4. NO THIRD-PARTY RIGHTS GRANTED
+
+   This permission is granted only in respect of rights held by the
+   copyright holder of the RR Covered Material. It supplies no right to
+   copy, distribute, sublicense or relicense any BeamNG Component, or
+   any other third-party material, and it does not alter the terms on
+   which any such material is licensed to you. Any such rights must be
+   obtained from their respective holders.
+
+
+5. REMOVAL
+
+   If you modify a copy of the RR Covered Material, you may remove this
+   additional permission from your copy. The AGPL then applies to your
+   copy without it.
