@@ -8,6 +8,9 @@
 > Back up your career folder before you start, and back it up again before every update. The path and
 > the one folder people get wrong are further down this page.
 
+A career add on that lets BeamNG.Earth work with RLS Career Overhaul. Start anywhere on the planet
+you like.
+
 **PUBLIC BETA — v0.7.39.** Things will be broken. Please report them.
 
 **You need:** RLS Career Overhaul **2.8.0.1** or newer, BeamNG.drive **0.40.4** or newer, and
@@ -121,7 +124,7 @@ And you can buy land anywhere on Earth and put a house on it.
 8. While you are in there, grab RLS's own **Camera** app if you haven't already — Field Survey
    takes its photographs through it.
 9. **Press START in that app when you are standing where you want to live.** Until you do, nothing
-   happens — that is by design, and it is the next section.
+   happens — that is by design. See *What it is and how to start* below.
 
 No settings file is needed.
 
@@ -170,51 +173,47 @@ accept or refuse a site differently from the same spot on default settings, and 
 warns that first visits load more slowly with any of them on.
 
 
-## Your career does not start until you press START
+## What it is and how to start
 
 This is the part worth reading once, because it is unlike any other career mod.
 
-A new career begins **dormant**. Nothing is placed, nothing is charged, and BeamNG.Earth behaves
-exactly as it does with no career at all — its own map, its own free teleport, walking, exploring.
-You have no vehicles yet. Go and look at the places you have been meaning to look at, and take as
-long as you like.
+A new career starts **dormant**: BeamNG.Earth behaves exactly as it does with no career at all. Its
+own map, its own free teleport, walking, exploring. You have no vehicles yet. Go and explore the
+planet, take as long as you like.
 
-When you are standing where you want to live, open the **Remy's Reality** app on RLS's phone and
-press **START**. Your pickup and caravan are handed over **on that spot**, and everything else comes
-to life at the same moment: taxis and flights, Rent a Car, Hotels, Houses, Car Dealers, Roadside,
-side jobs and the Remy's Concierge tabs.
+Once you are standing where you want to start, open the App Store on the phone. GET the **Remy's
+Reality** app and open it. Press **START**. Your Truck and Caravan will spawn. Congratulations, they
+are yours! Back your Truck up to the Camper and hitch them together. The caravan is your home, and
+your camp plants itself **wherever you are. REMEMBER, you won't get the Garage icon until you unhitch
+the Camper** from your Truck.
 
-**RR never asks you where to start.** There is no city list and no dialog — Earth already has a map,
-and the answer is wherever you were standing.
+### Remy's Concierge
 
-**And your camp is not where you pressed START.** You are given the rig, not a camp. Hitch the
-caravan up, drive, and **wherever you first unhitch it** becomes your camp: the garage, the home
-computer, your parking and the camp zone.
+Open the Remy's Reality phone app again and a new GUI will pop up. Real businesses at real
+coordinates become your dealerships, hotels and rental counters. The tabs, left to right:
 
-## What it adds
-
-- **A career on Earth.** Home base, garage, computer, repairs, storage and sleep at a real surveyed
-  location. Owned cars keep real coordinates across saves.
-- **Taxi and flights.** The map's "Go" on foot becomes a paid taxi ride, or a booked flight between
-  real airports with the career clock advancing by the flight time.
-- **Real dealers, fuel and hotels.** Real businesses become RLS dealerships, gas stations and
-  temporary homes.
-- **Rentals.** Every airport and real rental place is a counter, with a full-screen picker, daily
-  billing, delivery to where you are, and a damage deductible.
-- **Remy's Roadlife.** Roadside repair and fuel delivery, camping, the caravan-and-pickup career
-  start, and courier side jobs through RLS's own logistics system.
-- **Field Survey.** Paid photographic commissions on real landmarks. The fee grows with how far the
-  next subject is from your last one — the money is in the travelling.
-- **Remy's Home Builder.** Buy land anywhere on Earth and put a house on it by standing there and
-  looking at it. Ask whether you can build here and get a yes with the land price or a no with the
-  reason and the number. Pick a house, watch it go up full size right where you stand, spin it, set
-  its height in inches, press **PLACE HERE**, then choose how to pay. Nothing is charged until
-  **BUILD**.
-- **Up to three properties at once**, on different continents, each with its own garage, computer,
-  parking, driveway and independent weekly mortgage.
-
-**Terrain is never edited.** Slopes are taken up by a concrete foundation skirt, not by levelling
-the ground. That is by design and will stay that way until BeamNG.Earth can bake a pad server-side.
+- **Hotels** — the nearest real hotels with nightly rates, a taxi or GPS route there, and your
+  current stay. During your stay, these also give you a Garage with one parking spot. Anything parked
+  there moves to your home garage when you check out.
+- **Rent a Car** — every airport and real rental place is a counter. Full-screen picker, a driver
+  leaves the car on a road near you, daily billing and a damage deductible.
+- **Houses** — **Remy's Home Builder.** Buy land anywhere on Earth and put a house on it by standing
+  there and looking at it. Ask whether you can build and you get a yes with the land price, or a no
+  with the reason **and the number** — too steep, too close to a building, too near water. Spin the
+  house, set its height in inches, press **PLACE HERE**, then choose how to pay. **Nothing is charged
+  until you commit and press BUILD.** The ground is never edited; slopes are taken up by a concrete
+  foundation skirt, and that will stay true until BeamNG.Earth can bake a pad server-side. Not
+  including the Camper, you can own up to **three properties at once**, anywhere on the planet, each
+  with its own garage, computer, parking and driveway. This tab sells them too.
+- **Flights** — book between real airports, with the career clock advancing by the flight time.
+  **4,136 real scheduled-service airports** ship with the mod.
+- **Taxi** — call a paid ride. The map's "Go" on foot becomes a taxi fare rather than a free teleport.
+- **Car Dealers** — the nearest real car dealers, with GPS routing to them. Click the dealers listing
+  to see a list of the available cars. Travel to the dealership to inspect and buy one.
+- **Roadside** — **Remy's Roadlife.** Callable field repair and fuel delivery, camping, and courier
+  side jobs through RLS's own logistics system.
+- **Survey** — **Field Survey.** Paid photo commissions, using the Camera app, on real locations and
+  landmarks. The fee grows with how far the next subject is from your last one. Explore and get paid.
 
 ### The houses
 
