@@ -210,8 +210,7 @@ coordinates become your dealerships, hotels and rental counters. The tabs, left 
 - **Taxi** — call a paid ride. The map's "Go" on foot becomes a taxi fare rather than a free teleport.
 - **Car Dealers** — the nearest real car dealers, with GPS routing to them. Click the dealers listing
   to see a list of the available cars. Travel to the dealership to inspect and buy one.
-- **Roadside** — **Remy's Roadlife.** Callable field repair and fuel delivery, camping, and courier
-  side jobs through RLS's own logistics system.
+- **Roadside** — Roadside Assistance. Call out a field repair or a fuel delivery to wherever you are.
 - **Survey** — **Field Survey.** Paid photo commissions, using the Camera app, on real locations and
   landmarks. The fee grows with how far the next subject is from your last one. Explore and get paid.
 
