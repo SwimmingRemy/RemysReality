@@ -53,7 +53,7 @@ Remy's Reality.
 | **Skills** | Works, but only accrues from apps that function, so some trees sit still on Earth. |
 
 RR's money and property not showing in RLS's Bank, Wallet and Loans is **ours to fix, not RLS's**.
-It is in Known Issues above. Remy's Reality's own screens are the accurate view of what you owe.
+It is in Known Issues below. Remy's Reality's own screens are the accurate view of what you owe.
 
 ### Empty on Earth
 
