@@ -138,7 +138,6 @@ Full instructions, the settings reference and the console commands are in
 | **BeamNG.drive** | **0.40.4 or later.** Built against 0.40.4, verified against 0.40.5. Older versions are not supported. |
 | **RLS Career Overhaul** | **2.8.0.1.** Also tested against 2.8.0.2-beta; the test suite runs against both. 2.7.x and below will not work. |
 | **BeamNG.Earth** | **1.9.1-beta.dev.300 or later** (Modding API 1.4 or later), **with its companion server running.** |
-| SR_CL EarthPlaces | *Optional.* No longer required as of 0.7.24 — RR covers the browse radius itself. Nothing breaks if you still have it. |
 
 **Played and tested on BeamNG.Earth dev.450.** *New careers confirmed to start on dev.456.*
 BeamNG.Earth moves fast; if something breaks after an Earth update, that is what the compatibility
