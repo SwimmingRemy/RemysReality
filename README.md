@@ -134,9 +134,6 @@ tunnels**, **Closed 3D models** and **Detailed Canadian lidar** all do. The Home
 accept or refuse a site differently from the same spot on default settings, and Earth's own panel
 warns that first visits load more slowly with any of them on.
 
-
-## What it is and how to start
-
 ## Install
 
 1. Install **RLS Career Overhaul** and **BeamNG.Earth** at the versions above, and
@@ -167,6 +164,7 @@ Full instructions, the settings reference and the console commands are in
 > The zip people install comes from the **Release**. The green **Code → Download ZIP** button at the
 > top of this page gives you the repository, which is not a mod and will not install.
 
+## What it is and how to start
 
 This is the part worth reading once, because it is unlike any other career mod.
 
