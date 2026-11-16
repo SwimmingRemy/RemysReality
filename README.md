@@ -277,7 +277,7 @@ meet:
   their favour while the grace clock keeps running. Not fixed yet.
 
 Not yet implemented: remote site checks (you must stand on a site to survey it), more than three
-properties, terrain levelling of any kind, and dealership purchase on Earth.
+properties, and terrain levelling of any kind.
 
 ## Reporting a bug
 
