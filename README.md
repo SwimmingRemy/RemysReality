@@ -72,15 +72,6 @@ and want that map. They are not an Earth feature and are not going to become one
 Most of the empty ones share one root cause — nothing can answer *"what businesses are near me"* on
 a map with no authored career sites. That work is in progress, so this list should shrink.
 
-Author: **SwimmingRemy** · Written with Claude (Anthropic) · Free
-
-Remy's Reality lets **RLS Career Overhaul** run a full career on the **BeamNG.Earth** map instead of
-a built-in one. Your home, the dealerships you buy from, the gas stations you fill up at, the hotels
-you sleep in and the rental counters you hire from are all real places at real coordinates. You
-cross the world by driving, by paid taxi, or by booking a flight between real scheduled-service
-airports — 4,136 of them ship with the mod.
-
-And you can buy land anywhere on Earth and put a house on it.
 
 > ### Back up your career save before you use this
 >
